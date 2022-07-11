@@ -1,0 +1,2 @@
+Summary for C:\Users\12\Desktop\javacoding\CFR\4x1-deobf-normalized.jar
+Decompiled with CFR 0.152
